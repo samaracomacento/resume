@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sâmara Antero"
-resume_title:                   "Arquiteta e Ilustradora"
+resume_title:                   "Arquiteta e Urbanista"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "samaracomacento@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "Rio de Janeiro - samaracomacento@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Formada pela Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro em 2018, atuou em projetos de restauração e conservação no Jardim das Princesas e IFCS quando estava vinculado ao Escritório Técnico da UFRJ e como voluntária no projeto de urbanização alternativa da travessa Laurinda, no Morro do Alemão. Ilustrou o livro: Tuba, uma indiazinha com baixa visão. Possui interesse em conservação e restauro, bioarquitetura e ilustração.</p>"
+resume_header_intro: "<p>Formada pela Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro em 2018, atuou em projetos de restauração e conservação no Museu Nacional e IFCS quando estava vinculado ao Escritório Técnico da UFRJ e como voluntária no projeto de urbanização alternativa da travessa Laurinda, no Morro do Alemão. Possui interesse em conservação e restauro, bioarquitetura e ilustração.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
