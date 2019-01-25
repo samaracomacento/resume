@@ -1,17 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Restauração e Conservação da Biblioteca do Horto - Museu Nacional
+- project: Restauração e Conservação da Biblioteca do Horto
   duration: 2018 &mdash; Atual
+  description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
   
-- project: Restauração e Conservação do Orquidário do Horto - Museu Nacional
+- project: Restauração e Conservação do Orquidário do Horto
   duration: 2018 &mdash; Atual
+  description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
 
-- project: Percurso ecológico permacultural no Museu Nacional
+- project: Percurso ecológico permacultural
   duration: 2018 &mdash; Atual
+  description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
   
 - project: Alocação emergencial dos programas e pesquisa e pós-graduação do Museu Nacional
   duration: 2018 &mdash; Atual
+  description: Alocação em containers dos espaços de pesquisa perdidos após o incêndio
 
 # jazznotes.io
 - project: Tuba, uma indiazinha com baixa visão
