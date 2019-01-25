@@ -2,18 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: Restauração e Conservação da Biblioteca do Horto
+  role: Arquiteta
   duration: 2018 &mdash; Atual
   description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
   
 - project: Restauração e Conservação do Orquidário do Horto
+  role: Arquiteta
   duration: 2018 &mdash; Atual
   description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
 
 - project: Percurso ecológico permacultural
+  role: Arquiteta
   duration: 2018 &mdash; Atual
   description: Horto Botânico - Museu Nacional, Quinta da Boa Vista &mdash; Rio de Janeiro
   
 - project: Alocação emergencial dos programas e pesquisa e pós-graduação do Museu Nacional
+  role: Arquiteta
   duration: 2018 &mdash; Atual
   description: Alocação em containers dos espaços de pesquisa perdidos após o incêndio
 
@@ -24,11 +28,12 @@
   description: Coleção Os Novos Amiguinhos &mdash; Marcio Mendes Biasoli
 
 - project: Restauração e Conservação do Jardim das Princesas
+  role: Estagiária de arquiteta
   duration: 2017 &mdash; 2017
   description: Jardim das Princesas, Quinta da Boa Vista &mdash; Rio de Janeiro
 
 # Springfield Community Outreach Group
-- project:  Urbanização da Travessa Laurinda
+- project: Urbanização da Travessa Laurinda
   role: Voluntária
   duration: 2016
   description: Projeto de urbanização alternativa, Morro do Alemão &mdash; Rio de Janeiro
